@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rails-monorepo/static/css/main.964fdded.css",
+    "main.js": "/react-rails-monorepo/static/js/main.5e91b209.js",
+    "index.html": "/react-rails-monorepo/index.html",
+    "main.964fdded.css.map": "/react-rails-monorepo/static/css/main.964fdded.css.map",
+    "main.5e91b209.js.map": "/react-rails-monorepo/static/js/main.5e91b209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.5e91b209.js"
+  ]
+}
